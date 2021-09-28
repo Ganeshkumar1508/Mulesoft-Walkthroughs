@@ -1,7 +1,0 @@
-Training internal app
-
-Client ID:
-1ed1c0d811784962be6cccfa8eafb1f8
-
-Client Secret:
-5C1006447d064B549aD217a64e950Baa
